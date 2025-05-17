@@ -1,0 +1,1 @@
+For this project i chose to implement all the fucntionality in the App.js file to maintain simplicity. An example is putting the usePet.js in the hook folder i instead chose to implement all of it on the main file. 
