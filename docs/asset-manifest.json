@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/project08-react-virtual-pet-mcrawford1400/static/css/main.2d61126a.css",
+    "main.js": "/project08-react-virtual-pet-mcrawford1400/static/js/main.3de15a9a.js",
+    "index.html": "/project08-react-virtual-pet-mcrawford1400/index.html",
+    "main.2d61126a.css.map": "/project08-react-virtual-pet-mcrawford1400/static/css/main.2d61126a.css.map",
+    "main.3de15a9a.js.map": "/project08-react-virtual-pet-mcrawford1400/static/js/main.3de15a9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d61126a.css",
+    "static/js/main.3de15a9a.js"
+  ]
+}
